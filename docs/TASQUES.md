@@ -17,9 +17,9 @@ Les tasques s’han de convertir en GitHub Issues i vincular a les Pull Requests
 | 9. Concerts | Sis concerts, estats, botons i tres filtres | Implementada |
 | 10. Contacte | Dades demo, mapa i validació HTML5 | Implementada |
 | 11. Animacions | Keyframes, transicions, transformacions, pausa | Implementada |
-| 12. Responsive | Flexbox, dos breakpoints, botons i lectura | En verificació |
-| 13. Revisió | Enllaços, accessibilitat i dos navegadors | En verificació |
-| 14. Proxmox | Cinc pàgines accessibles i README actualitzat | En desplegament |
+| 12. Responsive | Flexbox, dos breakpoints, botons i lectura | Comprovada a 320, 390 i 1440 px |
+| 13. Revisió | Enllaços, accessibilitat i dos navegadors | Revisada; límits a VERIFICACIO.md |
+| 14. Proxmox | Cinc pàgines accessibles i README actualitzat | Publicada i comprovada |
 | 15. Entrega | Dues URL, contribucions reals i Moodle | Pendent dels integrants |
 
 Proposta de repartiment per a aportacions posteriors: Yinhao revisa la composició, la música i les animacions; Diego revisa els continguts, els concerts, l’accessibilitat i les proves. Cada persona ha d’utilitzar el seu compte, la seva branca i una Pull Request.
