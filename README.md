@@ -12,7 +12,7 @@ Implementació assistida amb IA. Les aportacions personals dels dos integrants s
 ## Publicació
 
 - Proxmox: https://ychen.ieti.site/jay-chou/
-- Repositori: pendent de crear o vincular a GitHub.
+- Repositori públic: https://github.com/Yinhao7676/DAM1M04-ExerciciHTML
 - L’enunciat utilitza dos noms diferents. S’ha escollit **DAM1M04-ExerciciHTML**, el nom especificat a l’apartat final d’entrega.
 
 ## Pàgines
@@ -54,7 +54,7 @@ L’agenda, l’estat de les entrades i el contacte són ficticis i estan identi
 
 ## GitHub i treball en equip
 
-L’organització de les quinze tasques és a [docs/TASQUES.md](docs/TASQUES.md). Cal crear les Issues al repositori i vincular-les a les Pull Requests. Proposta de branques:
+L’organització de les quinze tasques és a [docs/TASQUES.md](docs/TASQUES.md). Les quinze Issues són a https://github.com/Yinhao7676/DAM1M04-ExerciciHTML/issues i les tasques tècniques es vinculen a una Pull Request d’integració. Branques:
 
 - `main`: versió integrada.
 - `yinhao/web-jay-chou`: implementació de Yinhao.
