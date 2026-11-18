@@ -2,11 +2,11 @@
 
 Enunciat: https://github.com/optimisme/DAM-LlenguatgeMarques/blob/main/02-Web/17-TreballHTML.md
 
-Les tasques s’han de convertir en GitHub Issues i vincular a les Pull Requests. La preparació tècnica no substitueix les aportacions reals dels dos integrants.
+Les quinze tasques estan creades com a GitHub Issues: https://github.com/Yinhao7676/DAM1M04-ExerciciHTML/issues. Les tasques tècniques es vinculen a la Pull Request d’integració. La preparació tècnica no substitueix les aportacions reals dels dos integrants.
 
 | Tasca | Criteri d’acceptació | Estat inicial |
 | --- | --- | --- |
-| 1. Preparar GitHub | Repositori, integrants, branques, Issues i PR | Pendent de GitHub i usuari de Diego |
+| 1. Preparar GitHub | Repositori, integrants, branques, Issues i PR | Repositori i branques creats; falta usuari i col·laboració de Diego |
 | 2. Estructura | Cinc pàgines i recursos relatius | Implementada |
 | 3. Identitat visual | Paleta, marca, Google Fonts, components | Implementada |
 | 4. Header i menú | Menú compartit, pàgina activa, checkbox mòbil | Implementada |

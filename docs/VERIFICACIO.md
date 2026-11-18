@@ -27,7 +27,7 @@ Data: 18/11/2026.
 - Edge no estava disponible a l’eina de control. S’ha comprovat també la portada a Chrome natiu. Les proves detallades dels controls s’han fet al navegador integrat; tots dos utilitzen Chromium. És recomanable ampliar la prova a Firefox o Safari per comprovar un motor diferent.
 - Les preferències del sistema de reducció de moviment es respecten en el CSS; no s’ha canviat la configuració del sistema per simular-les.
 - Els reproductors i el mapa depenen de serveis externs, de la connexió i de les seves polítiques d’accés.
-- La creació del repositori i les Issues requereix completar l’inici de sessió de GitHub. La col·laboració de Diego requereix el seu usuari.
+- Repositori públic creat i quinze Issues preparades. Les tasques tècniques es vinculen a la Pull Request d’integració; la col·laboració de Diego requereix el seu usuari i les seves aportacions pròpies.
 - L’entrega a Moodle i les aportacions personals dels dos integrants estan pendents dels alumnes.
 
 ## Publicació
